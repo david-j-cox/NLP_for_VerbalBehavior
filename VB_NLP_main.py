@@ -20,8 +20,10 @@ import string
 os.chdir('C:/Users/coxda/Dropbox/Projects/Current Project Manuscripts/Empirical/NLP for Skinner\'s VB/Text Files')
 # Work Mac
 os.chdir('/Users/dcox/Dropbox/Projects/Current Project Manuscripts/Empirical/NLP for Skinner\'s VB/Text Files')
+# Download from GitHub repository. 
+read.txt(text = GET("https://github.com/davidjcox333/NLP_for_VerbalBehavior/blob/master/(1957)%20Verbal%20Behavior%2C%20Skinner.txt"))
 
-#Show current working directory. 
+# Show current working directory. 
 dirpath = os.getcwd()
 print(dirpath)
 

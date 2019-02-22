@@ -1,6 +1,6 @@
 # NLP_for_VerbalBehavior
 
-Natural language processing is refers to a suite of computational tecniques for developing insight into verbal behavior. Skinner's book, Verbal Behavior, was a seminal text that outlined how an operant approach to verbal behavior can account for human language. Despite the prominence of written-textual behavior in current society, and the robust research literature on an operant approach to verbal behavior, surprisingly little research has been conducted on written-textual behavior. The purpose of this project is take an initial deep-dive into a quantitative, computational, and functional analysis of written-textual behavior. It can get no more meta than to do so on the book that outlined in detail a functional approach to verbal behavior. 
+Natural language processing refers to a suite of computational techniques for improving our understanding of verbal behavior. Skinner's book, Verbal Behavior, was a seminal text that outlined how an operant approach to verbal behavior can account for human language. Despite the prominence of written-textual behavior in current society, and the robust research literature on an operant approach to verbal behavior, surprisingly little research has been conducted on written-textual behavior. The purpose of this project is take an initial deep-dive into a quantitative, computational, and functional analysis of written-textual behavior. It arguably can not get any more meta than to take this initial deep dive on the book that outlined in detail a functional approach to verbal behavior. 
 
 ### Prerequisites
 
@@ -10,7 +10,7 @@ The documents available here are pretty straight forward. One: a .txt file of Sk
 
 One of the Python scripts is titled, "VB_NLP_main."  This has all of the other scripts in it and is a collection of what others have done. 
 
-All other scripts are stand alone analyses and are titled, "VB_NLP_[analysis]". These are available so you can check out and run a single analysis if you so choose. 
+All other scripts are stand alone analyses and are titled, "VB_NLP_[analysis]". Here, [analysis] is replaced with the name of the type of analysis that script conducts.  These are available so you can check out and run a single analysis if you so choose without having to scroll through the entire NLP for VB analytic file. 
 
 
 ## Built With
